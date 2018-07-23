@@ -1,0 +1,8 @@
+{
+  "name": "Hael-Chicken",
+  "app_id": "78568c61",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
